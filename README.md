@@ -1,9 +1,12 @@
 code extracted from http://www.nimbletank.com/offering/creative
+
 at 2014-07-27
 
 
 Demo http://jszen.com/public/demo/scroll/index.html
+
 Demo2 http://jszen.com/public/demo/scroll/demo2.html
+
 Demo3 http://jszen.com/public/demo/scroll/demo3.html
 
 
@@ -19,7 +22,7 @@ window.addEventListener('resize', function()
 });
 ```
 
-
+```
 Parameters:
 1. scroll element ( not the wrapper )
 2. if allow scroll horizontally ( true/false )
@@ -29,3 +32,4 @@ Parameters:
 		handle:  the element which will be listen to
 		holder:  the wrapper element
 	}
+```
